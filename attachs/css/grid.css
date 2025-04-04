@@ -1,0 +1,29 @@
+.con{
+  display: flex;
+  justify-content: center;
+  align-content: center;
+}
+
+.con-start{
+  display: flex;
+  justify-content: start;
+  align-content: center;
+}
+
+.con-around{
+  display: flex;
+  justify-content: space-around;
+  align-content: center;
+}
+
+.con-between{
+  display: flex;
+  justify-content: space-between;
+  align-content: center;
+}
+
+.con-end{
+  display: flex;
+  justify-content: end;
+  align-content: center;
+}
