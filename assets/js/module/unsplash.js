@@ -1,6 +1,6 @@
 import dayjs from 'https://cdn.jsdelivr.net/npm/dayjs@1.11.13/+esm';
 
-const API_KEY = '8M0jd5RuuCaDmM316wzO712V5ojFx_SqHl8gcqEts5A';
+const API_KEY = 'unsplash-api-key';
 const URL = 'https://api.unsplash.com/photos/random?';
 const params = {
   client_id: API_KEY,
