@@ -1,4 +1,4 @@
-const API_KEY = 'd3d3de0defcfe32b777c03ed51c4d620';
+const API_KEY = 'openweathermap-api-key';
 const API_URL = ' https://api.openweathermap.org/data/2.5/weather?';
 
 const api = async coords => {
